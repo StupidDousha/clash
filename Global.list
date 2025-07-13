@@ -15347,6 +15347,7 @@ DOMAIN-SUFFIX,msturing.org
 DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,mt.lv
+DOMAIN-SUFFIX,mteam.cc
 DOMAIN-SUFFIX,mt0011.site
 DOMAIN-SUFFIX,mtao.fun
 DOMAIN-SUFFIX,mtec.ac.uk
@@ -31830,3 +31831,4 @@ IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 PROCESS-NAME,LookupViewService
+
